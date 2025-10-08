@@ -1,7 +1,7 @@
 # ShopEZ - Mobile Shopping App
 
 **React Native Application**  
-**Marks: 60**  
+
 
 ShopEZ is a mobile shopping application built with **React Native** and **Firebase**. Users can register, log in, browse products from the Fake Store API, view product details, add products to their cart, and persist cart data in Firebase Realtime Database. The app retains login state across restarts and implements offline cart persistence using AsyncStorage.
 
